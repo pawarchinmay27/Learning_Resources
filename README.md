@@ -13,6 +13,10 @@ https://www.signifytechnology.com/blog/2021/06/building-a-user-friendly-dsl-with
 
 https://livebook.manning.com/book/dsls-in-action/chapter-6/40
 
+
+# Topic : Distributed Systems
+MIT 6.824 - https://pdos.csail.mit.edu/6.824/schedule.html
+
   
     
       
